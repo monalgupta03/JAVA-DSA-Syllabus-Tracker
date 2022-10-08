@@ -1,8 +1,8 @@
 # Progress Tracker
 
 ## DSA
-- [x] Complete Git & GitHub Course
-- [x] Introduction to Programming
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
   - - [x] Types of languages
   - - [x] Memory management
 - [x] Flow of the program
