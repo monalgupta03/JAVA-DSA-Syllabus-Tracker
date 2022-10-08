@@ -112,49 +112,49 @@
     - - [x] Fast and slow pointer
     - - [x] Cycle Detection
     - - [x] Reversing of LinekdList
-    - - [x] Linked List Interview questions
-- [x] Stacks & Queues
-    - - [x] Introduction
-    - - [x] Interview problems
-    - - [x] Push efficient
-    - - [x] Pop efficient
-    - - [x] Queue using Stack and Vice versa
-    - - [x] Circular Queue
+    - - [] Linked List Interview questions
+- [] Staks & Queues
+    - - [] Introduction
+    - - [] Interview problems
+    - - [] Push efficient
+    - - [] Pop efficient
+    - - [] Queue using Stack and Vice versa
+    - - [] Circular Queue
 - [ ] Dynamic Programming
-    - - [x] Introduction
-    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [x] Complexity Analysis
-    - - [x] 0/1 Knapsack
-    - - [x] Subset Questions
-    - - [x] DP on Grids
-    - - [x] LC Questions on Above topics
+    - - [] Introduction
+    - - [] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [] Complexity Analysis
+    - - [] 0/1 Knapsack
+    - - [] Subset Questions
+    - - [] DP on Grids
+    - - [] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [x] Introduction
-    - - [x] Binary Trees
-    - - [x] Recursive Preorder, Inorder, Postorder Traversals
-    - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] LC Questions
-    - - [x] DFS
-    - - [x] BFS    
+    - - [] Introduction
+    - - [] Binary Trees
+    - - [] Recursive Preorder, Inorder, Postorder Traversals
+    - - [] Iterative Preorder, Inorder, Postorder Traversals
+    - - [] LC Questions
+    - - [] DFS
+    - - [] BFS    
     - - [ ] Binary Search Trees
     - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [x] Introduction
-    - - [x] Theory
-    - - [x] Priority Queue
+    - - [] Introduction
+    - - [] Theory
+    - - [] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [x] Introduction
-    - - [x] Theory - how it works
+    - - [] Introduction
+    - - [] Theory - how it works
     - - [ ] Comparisons of various forms
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
@@ -163,17 +163,17 @@
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
+    - - [] Introduction
+    - - [] Theory - how it works
+    - - [] Applications
     - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
+    - - [] Introduction
+    - - [] BFS
+    - - [] DFS
+    - - [] Working with graph components
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
@@ -182,9 +182,9 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [] Introduction
+    - - [] Applications
+    - - [] LC,GFG Questions
     - - [ ] Interview Questions
 
 <!-- ### Advanced concepts apart from interviews 
