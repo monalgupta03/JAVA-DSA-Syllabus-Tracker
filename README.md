@@ -114,47 +114,47 @@
     - - [x] Reversing of LinekdList
     - - [] Linked List Interview questions
 - [] Staks & Queues
-    - - [] Introduction
-    - - [] Interview problems
-    - - [] Push efficient
-    - - [] Pop efficient
-    - - [] Queue using Stack and Vice versa
-    - - [] Circular Queue
+    - - [ ] Introduction
+    - - [ ] Interview problems
+    - - [ ] Push efficient
+    - - [ ] Pop efficient
+    - - [ ] Queue using Stack and Vice versa
+    - - [ ] Circular Queue
 - [ ] Dynamic Programming
-    - - [] Introduction
-    - - [] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [] Complexity Analysis
-    - - [] 0/1 Knapsack
-    - - [] Subset Questions
-    - - [] DP on Grids
-    - - [] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [] Introduction
-    - - [] Binary Trees
-    - - [] Recursive Preorder, Inorder, Postorder Traversals
-    - - [] Iterative Preorder, Inorder, Postorder Traversals
-    - - [] LC Questions
-    - - [] DFS
-    - - [] BFS    
+    - - [ ] Introduction
+    - - [ ] Binary Trees
+    - - [ ] Recursive Preorder, Inorder, Postorder Traversals
+    - - [ ] Iterative Preorder, Inorder, Postorder Traversals
+    - - [ ] LC Questions
+    - - [ ] DFS
+    - - [ ] BFS    
     - - [ ] Binary Search Trees
     - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [] Introduction
-    - - [] Theory
-    - - [] Priority Queue
+    - - [ ] Introduction
+    - - [ ] Theory
+    - - [ ] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [] Introduction
-    - - [] Theory - how it works
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
     - - [ ] Comparisons of various forms
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
@@ -163,17 +163,17 @@
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [] Introduction
-    - - [] Theory - how it works
-    - - [] Applications
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
     - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [] Introduction
-    - - [] BFS
-    - - [] DFS
-    - - [] Working with graph components
+    - - [ ] Introduction
+    - - [ ] BFS
+    - - [ ] DFS
+    - - [ ] Working with graph components
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
@@ -182,9 +182,9 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [] Introduction
-    - - [] Applications
-    - - [] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
 <!-- ### Advanced concepts apart from interviews 
